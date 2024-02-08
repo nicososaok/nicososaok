@@ -2,7 +2,9 @@
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&weight=700&size=18&pause=1000&color=0D4F8A&background=F2F2F2F2&center=true&vCenter=true&repeat=false&width=340&height=35&lines=FullStack+Developer+in+process..." alt="volkerdev" /></p>
 
-<p>I'm a self-taught person, who likes to understand how things work around me, detail-oriented in every process of creation and development, passionate about everything that has to do with technology.
+<p>I am a self-taught person, who likes to understand how things work around me, detail-oriented in every process of creation and development, passionate about everything that has to do with technology.
+
+I am an open person, I adapt very fast to any environment and I have frustration tolerance.
 
 I'm also interested in AI and computer security.</p>
 
