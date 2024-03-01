@@ -4,7 +4,7 @@
 
 <p>I'm a self-taught person, who likes to understand how things work around me, detail-oriented in every process of creation and development, passionate about everything that has to do with technology and innovation.
 
-I consider myself an open-minded person, I adapt very fast to any environment and I have frustration tolerance.
+I consider myself an open person, I adapt very fast to any environment and enjoy learning new concepts every day.
 
 I'm also interested in AI and computer security.</p>
 
