@@ -6,6 +6,8 @@
 
 I consider myself an open-minded person, I adapt very fast to any environment and enjoy learning new concepts every day.
 
+Committed to professional growth and constant updating in the latest technologies.
+
 I'm also interested in AI and computer security.</p>
 
 ---
