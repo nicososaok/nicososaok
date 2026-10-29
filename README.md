@@ -14,9 +14,10 @@ I'm also interested in AI and computer security.</p>
 
 <h3>💻 Projects</h3>
 
-* Calculator
-* Snake Game
-* Tetris
+* FinanzArg
+* E-commerce
+* Pet Finder App
+* Piedra, Papel y Tijera
 <br>
 
 <h3>👨🏻‍💻 Technologies</h3>
